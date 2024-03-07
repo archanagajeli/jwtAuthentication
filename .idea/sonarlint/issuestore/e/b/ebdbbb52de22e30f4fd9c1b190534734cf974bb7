@@ -1,0 +1,19 @@
+
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8„‚Êœá1
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8„‚Êœá1
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8„‚Êœá1
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8„‚Êœá1
+w
+java:S3305"ZInject this field value directly into "securityFilterChain", the only method that uses it.(‹ù™™8…‚Êœá1
+‚
+java:S3305"`Inject this field value directly into "daoAuthenticationProvider", the only method that uses it.(¿ì§’ýÿÿÿÿ8£”öºá1
+|
+java:S3305"ZInject this field value directly into "securityFilterChain", the only method that uses it.(ß„Ù§þÿÿÿÿ8…‚Êœá1
+‚
+java:S3305"`Inject this field value directly into "daoAuthenticationProvider", the only method that uses it.(ÙÍ•¯üÿÿÿÿ8…‚Êœá1
+{
+java:S1128"^Remove this unused import 'org.springframework.security.web.jaasapi.JaasApiIntegrationFilter'.(®Ýá‰8·”öºá1
